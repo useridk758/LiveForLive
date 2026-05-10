@@ -47,4 +47,4 @@ A demo static website concept for `LiveForLive`, a free sports and live event ag
 
 ## Notes
 
-This is a front-end demo site. In production, you would replace static arrays with a backend API for live schedules, streaming source discovery, event metadata, and authentication.
+This is a front-end demo site. In production, you would replace static arrays with a backend API for live schedules, streaming source discovery, event metadata, and authentication. 
